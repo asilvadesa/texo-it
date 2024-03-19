@@ -19,8 +19,8 @@
 
 ##### API:
 
-![alt text](https://github.com/asilvadesa/texo-it/tree/master/api/src/test/resources/images/api.png)
-![alt text](https://github.com/asilvadesa/texo-it/tree/master/api/src/test/resources/images/api-details.png)
+![alt text](https://github.com/asilvadesa/texo-it/tree/master/api/src/test/resources/images/api.PNG)
+![alt text](https://github.com/asilvadesa/texo-it/tree/master/api/src/test/resources/images/api-details.PNG)
 
 ##### WEB:
-![alt text](https://github.com/asilvadesa/texo-it/tree/master/web/src/test/resources/images/web.png)
+![alt text](https://github.com/asilvadesa/texo-it/tree/master/web/src/test/resources/images/web.PNG)

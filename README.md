@@ -25,4 +25,4 @@
 ##### WEB:
 ![alt text](https://github.com/asilvadesa/texo-it/blob/master/web/src/test/resources/images/web.PNG)
 
-![alt text](https://github.com/asilvadesa/texo-it/blob/master/web/src/test/resources/images/web-details.PNG)
+![alt text](https://github.com/asilvadesa/texo-it/blob/master/web/src/test/resources/images/web-details.png)
